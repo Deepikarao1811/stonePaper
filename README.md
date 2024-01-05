@@ -1,1 +1,1 @@
-# stonePaper
+In this small project i have used html, css , js
